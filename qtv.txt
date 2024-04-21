@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="中文D" group-title="NBA,掘金 vs 湖人,2024-04-20 17:30:00",中文D
+https://play1nm.hnyongshun.cn/live/ballbar_38680.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="中文D2" group-title="NBA,掘金 vs 湖人,2024-04-20 17:30:00",中文D2
+https://play1nm.hnyongshun.cn/live/ballbar_37890.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="中文" group-title="NBA,掘金 vs 湖人,2024-04-20 17:30:00",中文
+https://kgq-out1-0605.speedzonerc.com/live/hd-zh-2-3784252.m3u8?auth_key=1713661142-0-0-5391574918caae3eddc29c9b7233d7c9
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="海外" group-title="NBA,掘金 vs 湖人,2024-04-20 17:30:00",海外
+https://kgq-out1-0605.speedzonerc.com/live/hd-en-2-3784252.m3u8?auth_key=1713661142-0-0-1e7ee8f6a39057ba2048ab9734be52f6
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="高清" group-title="NBA,掘金 vs 湖人,2024-04-20 17:30:00",高清
+https://kgq-out1-0605.speedzonerc.com/live/sd-2-3784252.m3u8?auth_key=1713661142-0-0-c33c613cddeea491c7c909740a77f643

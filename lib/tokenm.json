@@ -64,12 +64,12 @@
 "singbox_subscribe_url":"",
 "singbox_clash2singbox_url":"./clash2singbox.gz",
 "singbox_template_url":"./singbox.json",
-"pan115_cookie":"",
+"pan115_cookie":"UID=24580735_R2_1723371138; CID=ebf812ca0d541d92fe90670d9d298b39; SEID=a7748e4af04ca60a09101d0b98adb5183d9247371160d456b0028e3c661d1111d1718b727ede84b977d7031a052c827daed2f039c8bfd001201a07d6",
 "pan115_thread_limit":0,
 "pan115_vip_thread_limit":0,
 "pan115_is_vip":false,
 "pan115_flags":"4kz",
 "pan115_auto_delete":true,
-"pan115_delete_code":"",
+"pan115_delete_code":"123456",
 "pan_order":"ali|quark|uc|115|yd|thunder|pikpak"
 }

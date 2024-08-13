@@ -22,6 +22,17 @@
                         "ext": "http://192.168.68.238:5678/tvbox/json/alist_ext.json;200;video"
                 },
 		{
+                        "key": "至臻",
+                        "name": "至臻┃网盘",
+                        "type": 3,
+                        "api": "csp_Wobg",
+                        "quickSearch": 1,
+                        "changeable": 1,
+                        "filterable": 1,
+                        "timeout": 60,
+                        "ext": "./lib/tokenm.json$$$https://mihdr.top/$$$null$$$1$$$./lib/wogg.json"
+                },
+		{
 			"key":"Youtube",
 			"name":"Youtube",
 			"type":3,

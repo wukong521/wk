@@ -12,14 +12,14 @@
 			"ext": "./lib/douban.json"
 		},
                 {
-            "key": "小雅",
-            "name": "小雅🦆",
-            "type": 3,
-            "api": "http://192.168.68.238:5678/tvbox/libs/alist.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://192.168.68.238:5678/tvbox/json/alist_ext.json;200;video"
+                        "key": "小雅",
+                        "name": "小雅🦆",
+                        "type": 3,
+                        "api": "http://192.168.68.238:5678/tvbox/libs/alist.min.js",
+                        "searchable": 1,
+                        "quickSearch": 1,
+                        "filterable": 0,
+                        "ext": "http://192.168.68.238:5678/tvbox/json/alist_ext.json;200;video"
                 },
 		{
 			"key":"Youtube",

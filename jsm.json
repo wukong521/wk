@@ -11,27 +11,6 @@
 			"indexs":1,
 			"ext": "./lib/douban.json"
 		},
-                {
-                        "key": "小雅",
-                        "name": "小雅🦆",
-                        "type": 3,
-                        "api": "http://192.168.68.238:5678/tvbox/libs/alist.min.js",
-                        "searchable": 1,
-                        "quickSearch": 1,
-                        "filterable": 0,
-                        "ext": "http://192.168.68.238:5678/tvbox/json/alist_ext.json;200;video"
-                },
-		{
-                        "key": "至臻",
-                        "name": "至臻┃网盘",
-                        "type": 3,
-                        "api": "csp_Wobg",
-                        "quickSearch": 1,
-                        "changeable": 1,
-                        "filterable": 1,
-                        "timeout": 60,
-                        "ext": "./lib/tokenm.json$$$https://mihdr.top/$$$null$$$1$$$./lib/wogg.json"
-                },
 		{
 			"key":"Youtube",
 			"name":"Youtube",
@@ -93,7 +72,7 @@
 				"ratio": 1.1
 			}
 		},
-		{"key":"115Share","name":"115云盘分享","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":120, "ext":"./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
+		{"key":"115Share","name":"115云盘分享","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":120, "ext":"./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1

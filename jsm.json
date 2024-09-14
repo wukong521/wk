@@ -12,16 +12,6 @@
 			"ext": "./lib/douban.json"
 		},
 		{
-                        "key": "小雅",
-                        "name": "小雅🦆",
-                        "type": 3,
-                        "api": "http://192.168.68.238:5678/tvbox/libs/alist.min.js",
-                        "searchable": 1,
-                        "quickSearch": 1,
-                        "filterable": 0,
-                        "ext": "http://192.168.68.238:5678/tvbox/json/alist_ext.json;200;video"
-                },
-		{
 			"key":"Youtube",
 			"name":"Youtube",
 			"type":3,
@@ -163,7 +153,7 @@
 		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"},
 		{"key":"蜡笔网盘","name":"蜡笔|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"},
 		{"key":"Mogg","name":"木偶哥哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"},
-		{"key": "土豆","name": "土豆|网盘","type": 3,"api": "csp_Wobg","searchable": 1,"filterable": 0,"changeable": 1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./lib/wogg.json$$$TUDOU"},
+		{"key": "土豆","name": "土豆|网盘","type": 3,"api": "csp_Wobg","searchable": 1,"filterable": 0,"changeable": 1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./lib/wog.json$$$TUDOU"},
 		{
 			"key": "小米网盘",
 			"name": "小米|网盘",
@@ -197,8 +187,7 @@
 			"timeout":60,
 			"ext": "./lib/tokenm.json$$$https://www.yjys01.com/$$$proxy$$$1"
 		},
-		{"key":"TGYunPanLocal","name":"TG搜索Local|网盘搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"./lib/tokenm.json$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$proxy$$$1"},
-		{"key":"TGYunPan","name":"TG搜索|网盘搜索","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"./lib/tokenm.json$$$http://127.0.0.1:9999/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$noproxy$$$1"},
+		{"key":"TGYunPan","name":"TG搜索|网盘搜索","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"./lib/tokenm.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"},
 		{"key":"YunPan","name":"云盘资源|网盘","type":3,"api":"csp_YunPan","timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
 		{"key":"YingSo","name":"影搜|网盘搜索","type":3,"api":"csp_YingSo","timeout":60, "ext":"./lib/tokenm.json"},
 		{"key":"混合盘","name":"混合盘|网盘搜索","type":3,"api":"csp_HunHePan","timeout":60, "ext":"./lib/tokenm.json",
@@ -261,6 +250,15 @@
 		},
 		{"key":"YunPanOne","name":"云盘One|网盘搜索","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
 		{
+			"key": "NanGua",
+			"name": "南瓜|弹幕",
+			"type": 3,
+			"api": "csp_NanGua",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "null$$$1"
+		},
+		{
 			"key": "新6V",
 			"name": "新6V|网盘",
 			"type": 3,
@@ -269,25 +267,6 @@
 			"changeable": 1,
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
-		},
-		{
-			"key": "賤賤",
-			"name": "荐片",
-			"type": 3,
-			"api": "csp_Jianpian",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "./lib/jianpian.json$$$1",
-			"timeout":60
-		},
-		{
-			"key": "NanGua",
-			"name": "南瓜|弹幕",
-			"type": 3,
-			"api": "csp_NanGua",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "null$$$1"
 		},
 		{
 			"key": "天天",
@@ -302,6 +281,16 @@
 			"type": 3,
 			"api": "csp_TTian",
 			"ext": "http://app.kzjtv.com$$$null$$$1"
+		},
+		{
+			"key": "賤賤",
+			"name": "荐片",
+			"type": 3,
+			"api": "csp_Jianpian",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "./lib/jianpian.json$$$1",
+			"timeout":60
 		},
 		{
 			"key": "黑木耳",
@@ -584,6 +573,14 @@
 			"name": "異界",
 			"type": 3,
 			"api": "csp_Ysj",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "愛看",
+			"name": "愛看",
+			"type": 3,
+			"api": "./js/ikanbot_open.js",
 			"searchable": 1,
 			"changeable": 0
 		},
@@ -882,6 +879,106 @@
 			}
 		],
 		"parses": [
+			{
+				"name": "聚合",
+				"type": 3,
+				"url": "Demo"
+			},
+			{
+				"name": "web",
+				"type": 3,
+				"url": "Web"
+			},
+			{
+				"name":"看看",
+				"type":0,
+				"url":"https://jx.m3u8.pw/?url=",
+				"ext": {
+					"flag": [
+						"qq",
+						"腾讯",
+						"qiyi",
+						"爱奇艺",
+						"奇艺",
+						"youku",
+						"优酷",
+						"mgtv",
+						"芒果",
+						"imgo",
+						"letv",
+						"乐视",
+						"pptv",
+						"PPTV",
+						"sohu",
+						"bilibili",
+						"哔哩哔哩",
+						"哔哩"
+					],
+					"header": {
+						"User-Agent": "okhttp/4.1.0"
+					}
+				}
+			},
+			{
+				"name":"FreeOK",
+				"type":0,
+				"url":"https://play.86516.tk/OKPlayer/?url=",
+				"ext": {
+					"flag": [
+						"qq",
+						"腾讯",
+						"qiyi",
+						"爱奇艺",
+						"奇艺",
+						"youku",
+						"优酷",
+						"mgtv",
+						"芒果",
+						"imgo",
+						"letv",
+						"乐视",
+						"pptv",
+						"PPTV",
+						"sohu",
+						"bilibili",
+						"哔哩哔哩",
+						"哔哩"
+					],
+					"header": {
+						"User-Agent": "okhttp/4.1.0"
+					}
+				}
+			},
+			{
+				"name":"free",
+				"type":0,
+				"url":"https://h5.freejson.xyz/player/?url=",
+				"ext": {
+					"flag": [
+						"qq",
+						"腾讯",
+						"qiyi",
+						"爱奇艺",
+						"奇艺",
+						"youku",
+						"优酷",
+						"mgtv",
+						"芒果",
+						"imgo",
+						"letv",
+						"乐视",
+						"pptv",
+						"PPTV",
+						"sohu",
+						"bilibili",
+						"哔哩哔哩",
+						"哔哩"
+					],
+					"header": {
+						"User-Agent": "okhttp/4.1.0"
+					}
+				}
+			}
 		],
 		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 		"wallpaper": "http://饭太硬.top/深色壁纸/api.php",

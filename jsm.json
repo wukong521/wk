@@ -9,18 +9,8 @@
 			"searchable": 0,
 			"changeable": 1,
 			"indexs":1,
-			"ext": "./lib/douban.json"
+			"ext": "./lib/tokenm.json$$$./lib/douban.json"
 		},
-		{
-                        "key": "小雅",
-                        "name": "小雅🦆",
-                        "type": 3,
-                        "api": "http://192.168.68.238:5678/tvbox/libs/alist.min.js",
-                        "searchable": 1,
-                        "quickSearch": 1,
-                        "filterable": 0,
-                        "ext": "http://192.168.68.238:5678/tvbox/json/alist_ext.json;200;video"
-                },
 		{
 			"key":"Youtube",
 			"name":"Youtube",
@@ -36,6 +26,7 @@
 				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
 				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
 				"codecs":"",
+				"proxy":"proxy",
 				"danmu":true
 			},
 			"style": {
